@@ -36,7 +36,7 @@ un conjunto interno de validación, sin tocar el conjunto de prueba.
 ## Datos
 
 Los notebooks operan sobre cuatro ficheros CSV exportados por el simulador
-(`users.csv`, `friendships.csv`, `interactions.csv`, `messages.csv`).
+(`users.csv`, `friendships.csv`, `interactions.csv`, `messages.csv`). Estos ficheros se encuentran en la carpeta del repositorio `archivos`
 
 ## Requisitos
 
