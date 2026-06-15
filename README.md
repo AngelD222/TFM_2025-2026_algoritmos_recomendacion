@@ -29,9 +29,9 @@ un conjunto interno de validación, sin tocar el conjunto de prueba.
 
 ## Contenido
 
-- `algoritmos_1_2_3.ipynb` — infraestructura común y Algoritmos 1, 2 y 3
+- `Algoritmos_1_2_3_unificado.ipynb` — infraestructura común y Algoritmos 1, 2 y 3
   (incluida la extensión de intereses del Algoritmo 3).
-- `red_neuronal.ipynb` — Algoritmo 4 (red neuronal).
+- `Algoritmo_4_red_neuronal.ipynb` — Algoritmo 4 (red neuronal).
 
 ## Datos
 
